@@ -60,7 +60,7 @@ The if __name__ == '__main__': block creates an instance of the FLServerHandler 
 
 The primary goal of this code is to set up a federated learning server that can distribute model weights to clients (hospitals) and receive updated weights back from them after training. The server then aggregates the weights from all clients and updates its global model.<br>
 
-4. xxxx<br>
+4. FLServer.thrift<br>
 This code defines a Thrift service named FLServer for a federated learning server. The service contains methods for clients to request updated weights, send new weights to the server, and get information about the server's status.<br>
 
 The service has the following methods:<br>
