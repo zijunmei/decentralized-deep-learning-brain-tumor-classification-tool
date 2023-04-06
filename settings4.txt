@@ -1,0 +1,4 @@
+127.0.1.1
+/home/vkmg13/Documents/FedLearn/hospital_dataset/hospitalD_subsets/training
+/home/vkmg13/Documents/FedLearn/hospital_dataset/hospitalD_subsets/validation
+/home/vkmg13/Documents/FedLearn/hospital_dataset/hospitalD_subsets/testing

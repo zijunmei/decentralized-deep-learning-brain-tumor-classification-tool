@@ -1,0 +1,8 @@
+python3 /home/vkmg13/Documents/FedLearn/FLServer.py
+python3 /home/vkmg13/Documents/FedLearn/FLServerHelper.py
+python3 /home/vkmg13/Documents/FedLearn/FLClient.py
+
+/home/vkmg13/Documents/FedLearn/settings1.txt
+/home/vkmg13/Documents/FedLearn/settings2.txt
+/home/vkmg13/Documents/FedLearn/settings3.txt
+/home/vkmg13/Documents/FedLearn/settings4.txt
